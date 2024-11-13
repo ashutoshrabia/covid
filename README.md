@@ -1,1 +1,3 @@
 To address the challenge health professionals face in staying current with the vast and rapidly growing literature on COVID-19, clustering techniques can be combined with dimensionality reduction to visualize this collection of research effectively. In this approach, a scatter plot represents the literature, where publications on closely related topics are grouped under the same label and plotted nearby. To understand these clusters further, topic modeling is applied to identify keywords that capture the core themes of each cluster.
+
+Dataset : https://uofi.box.com/s/k8pw7d5kozzpoum2jwfaqdaey1oij93x
